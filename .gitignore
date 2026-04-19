@@ -1,0 +1,14 @@
+# Ignore dataset
+archive/
+data/
+
+# Ignore models
+models/
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.venv/
