@@ -3,8 +3,8 @@ archive/
 data/
 
 # Ignore models
-models/
-*.h5
+# models/
+# *.h5
 
 # Python
 __pycache__/
